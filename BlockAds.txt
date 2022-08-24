@@ -1,3 +1,12 @@
+! Title: Fuck Fuckadblock
+! Description: Filters for blocking pop-ups and anti-adblock bypass
+! Author: Bogachenko Vyacheslav
+! Expires: 3 days
+! Homepage: https://github.com/ColaHackBot/BlockAds
+! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
+! RAW: https://raw.githubusercontent.com/ColaHackBot/BlockAds/main/BlockAds.txt
+! CDN: https://github.com/bogachenko/fuckfuckadblock/wiki/Mirror-lists
+
 ||xn--12c3bn1nma.com/wp-content/uploads/2022/01/a563dcc63ceeabe.webp$image,domain=xn--12c3bn1nma.com
 ||xn--12c3bn1nma.com/wp-content/uploads/2022/01/414147f77f265e8.webp$image,domain=xn--12c3bn1nma.com
 ||xn--12c3bn1nma.com/wp-content/uploads/2022/01/ab6a0497b549201.webp$image,domain=xn--12c3bn1nma.com
